@@ -26,12 +26,3 @@ elif opcion == 3:
     conversor ("Mexicanos", 24)
 else:
     print ("Ingresa una opción correcta por favor!")
-
-
-# pesos = input ("¿Cuantos pesos Colombianos tienes?: ")
-# pesos = float (pesos)
-# valor_dolar = 3875
-# dolares = pesos / valor_dolar
-# dolares = round (dolares, 2) # la función road es para reducir decimales, para este caso solo quiero 2 #
-# dolares = str (dolares)
-# print ("Tienes $" + dolares + " dólares")
